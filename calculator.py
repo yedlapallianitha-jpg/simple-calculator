@@ -6,7 +6,7 @@ while True:
     while True:
         # This line asks the user to type the first number and stores whatever they type in a variable named first_input.
         # We store the answer as text first so we can safely check it and handle mistakes in a friendly way.
-        first_input = input("Enter the first number: ")
+        first_input = input("Enter the first number please: ")
 
         # This line starts a try block, which means Python will attempt the next line and let us catch errors if the input is not a real number.
         # We use try here because beginners often type unexpected input, and we want the program to stay calm and helpful.
