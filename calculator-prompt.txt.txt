@@ -1,0 +1,20 @@
+I am a complete beginner who has never written a single line of code before.
+Please create a simple calculator program in Python that does the following: 1.
+Asks the user to enter the first number 2. Asks the user to pick an operation: add
+(+), subtract (-), multiply (*), or divide (/) 3. Asks the user to enter the
+second number 4. Shows the result 5. Asks if they want to do another calculation
+or quit IMPORTANT SETUP INSTRUCTIONS (I need these because I've never done this
+before): - First, check if I have Python installed by telling me to open my
+Terminal (Mac) or Command Prompt (Windows) and type: python --version - If I don't
+have Python, give me step-by-step instructions to download and install it from
+python.org - Show me exactly how to create a new file called calculator.py, where
+to save it, and how to open it in a text editor - Show me the exact command to run
+the file from the terminal CODE REQUIREMENTS: - Add a detailed comment above EVERY
+single line of code explaining what it does and WHY in plain English, as if
+explaining to someone who has never seen code before - Handle the case where the
+user tries to divide by zero (show a friendly error message) - Handle the case
+where the user types letters instead of numbers (show a friendly error message) 
+Use a while loop so the calculator keeps running until the user types 'quit' 
+Keep the code as simple and readable as possible — no advanced tricks, just clean
+beginner code
+? QUESTIONS TO ASK YOUR A
